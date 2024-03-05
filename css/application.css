@@ -1,1 +1,4 @@
 @import url("/css/config/normalize.css");
+
+@import url("/css/components/canvas.css");
+@import url("/css/layouts/bgcanvas.css");
